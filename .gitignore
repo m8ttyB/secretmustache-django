@@ -42,4 +42,7 @@ doc/
 pip-selfcheck.json
 .local
 local/
+
+# django
 *.sqlite3
+staticfiles/
