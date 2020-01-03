@@ -46,3 +46,4 @@ local/
 # django
 *.sqlite3
 staticfiles/
+media/*
